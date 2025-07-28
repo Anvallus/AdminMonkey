@@ -1,2 +1,2 @@
 # AdminMonkey
-AdminMonkey: An idea for a bot to use with Discord servers. To create a fully functional moderation, auto-moderation, leveling and interactive bot that will make server management easier, provide some entertainment and allow members to integrate their accounts (Twitch, Mixer, Facebook, etc..).
+Having used Unix, Solaris, OS/2, and Linux (Slackware) in the early 1990's for both work and personal needs, I mostly used DOS and Windows systems. Ultimately, I became a Windows only user and remained so for many years. Now I am turning my attention back to Linux, Ubuntu specifically, for my home PC use. 
